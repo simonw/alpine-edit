@@ -6,3 +6,5 @@ To run `edit` against the files in your current directory, run this:
 ```bash
 docker run --platform linux/arm64 -it --rm -v $(pwd):/workspace ghcr.io/simonw/alpine-edit
 ```
+
+Here's [background on this project](https://simonwillison.net/2025/Jun/21/edit-is-now-open-source/) on my blog plus a TIL on [Publishing a Docker container for Microsoft Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry).
