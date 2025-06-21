@@ -1,6 +1,6 @@
 # alpine-edit
 
-[Microsoft edit](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/) packaged as a Docker container to run on a Mac
+[Microsoft Edit](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/) packaged as a Docker container to run on a Mac
 
 To run `edit` against the files in your current directory, run this:
 ```bash
